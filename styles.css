@@ -2,8 +2,13 @@ div {
     color: black;
     background-color: white;
     font-style: italic;
+    text-align: center;
 }
 
 .item {
     font-style: normal;
+}
+
+.heading {
+    text-align: center;
 }
